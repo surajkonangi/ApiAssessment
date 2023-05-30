@@ -1,0 +1,18 @@
+{
+  "id": 1163,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "scooby",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "golden retriver"
+    }
+  ],
+  "status": "golden retriver available"
+}

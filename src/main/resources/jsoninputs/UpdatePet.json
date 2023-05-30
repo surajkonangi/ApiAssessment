@@ -1,0 +1,18 @@
+{
+  "id": 1163,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "dooby",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 2,
+      "name": "laberdor"
+    }
+  ],
+  "status": "blacky retriver available"
+}
